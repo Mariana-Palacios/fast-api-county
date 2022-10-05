@@ -1,0 +1,6 @@
+1, Argentina, Buenos Aires
+2, bolivia, La Paz
+3, Colombia, bogota
+4, Brasil, rio De Janeiro
+5, panama, Ciudad de Panama
+6, Peru, Lima
